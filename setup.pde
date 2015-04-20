@@ -19,4 +19,6 @@ void setup(int sizex, int sizey) {
   }
   
   //call oneJoystick(); or twoJoystick
+  //oneJoystick();
+  //twoJoystick();
 }
