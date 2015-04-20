@@ -8,3 +8,6 @@ ControllDevice joystick;
 ControllDevice joystickOne;
 ControllDevice joystickTwo;
 Serial port;
+
+boolean jsError = true;
+boolean commsError = true;
